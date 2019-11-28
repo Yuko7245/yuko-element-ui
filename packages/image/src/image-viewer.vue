@@ -4,7 +4,7 @@
       <div class="el-image-viewer__mask"></div>
       <!-- CLOSE -->
       <span class="el-image-viewer__btn el-image-viewer__close" @click="hide">
-        <i class="el-icon-circle-close"></i>
+        <i class="el-icon-circle-close" style="color: #fff"></i>
       </span>
       <!-- ARROW -->
       <template v-if="!isSingle">

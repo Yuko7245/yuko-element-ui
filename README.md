@@ -1,3 +1,9 @@
+打包：
+npm run dist
+跑play文件：
+npm run dev:play
+
+
 <p align="center">
   <img src="https://cdn.rawgit.com/ElemeFE/element/dev/element_logo.svg">
 </p>
